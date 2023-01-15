@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{0A797CBC-D0DD-4BED-9FC2-30CE6FFB8C0F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameProj/Program.cs">
+    <Files>
+      <File FileName="GameProj/Program.cs" Line="13" Column="33" />
+      <File FileName="GameProj/Enum/Result.cs" Line="1" Column="1" />
+      <File FileName="GameProj/Enum/PlayerIndex.cs" Line="1" Column="1" />
+      <File FileName="GameProj/Account/GameAccountStreak.cs" Line="1" Column="1" />
+      <File FileName="GameProj/Account/GameAccountLight.cs" Line="17" Column="14" />
+      <File FileName="GameProj/Account/GameAccount.cs" Line="28" Column="18" />
+      <File FileName="GameProj/Game/StandartGame.cs" Line="1" Column="1" />
+      <File FileName="GameProj/Game/TrainingGame.cs" Line="1" Column="1" />
+      <File FileName="GameProj/Game/AbstractGame.cs" Line="1" Column="1" />
+      <File FileName="GameProj/Game/GameCreater.cs" Line="1" Column="1" />
+      <File FileName="GameProj/Game/GameRatingForOne.cs" Line="9" Column="23" />
+      <File FileName="GameProj/Game/GameResult.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GameProj" expanded="True">
+            <Node name="GameProj" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Account" expanded="True" />
+              <Node name="Enum" expanded="True" />
+              <Node name="Game" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.GameProj PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
